@@ -1,0 +1,9 @@
+CÔNG TẮC BÁO SỐ - MÔ TƠ ĐỀ
+
+Công tăc ở vị trí N
+-LCD hiện N
+-cho xuất tín hiệu ra nút nhấn --> cho mô tơ đề quay
+
+Công tắc ở vị trí 1-2-3-4
+-LCD hiện số 1-2-3-4
+-ko có tín hiệu ra nút nhấn --> ko cho mơ tơ đề quay
