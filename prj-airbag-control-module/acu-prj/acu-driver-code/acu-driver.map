@@ -1,0 +1,21 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+flag                                                              0x01B9       1
+buffer                                                            0x01BA      16
+_seed                                                             0x01CA       4
+_base_y                                                           0x01CE       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+employ                                                            R5           1
+crash_value                                                       R6,R7        2
+accelerate_value                                                  R8,R9        2
+_lcd_x                                                            R4           1
+_lcd_y                                                            R11          1
+_lcd_maxx                                                         R10          1

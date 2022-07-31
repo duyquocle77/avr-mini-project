@@ -1,0 +1,14 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"main.c" LINE:59
+read_Sensor DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"main.c" LINE:329
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:14 FILE:"D:\Program File User\CodeVisionAVR\cvavr 2.5\lib\stdio.lib" LINE:1410
+_print DSTACK_USAGE:94 DSTACK_LEVEL:108 FILE:"D:\Program File User\CodeVisionAVR\cvavr 2.5\lib\stdio.lib" LINE:1162
+_ftoe DSTACK_USAGE:16 DSTACK_LEVEL:124 FILE:"D:\Program File User\CodeVisionAVR\cvavr 2.5\lib\stdio.lib" LINE:1098
+floor DSTACK_USAGE:4 DSTACK_LEVEL:128 FILE:"D:\Program File User\CodeVisionAVR\cvavr 2.5\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:132 FILE:"D:\Program File User\CodeVisionAVR\cvavr 2.5\lib\math.lib" LINE:544
+ext_int0_isr DSTACK_USAGE:12 DSTACK_LEVEL:144 FILE:"main.c" LINE:187
+print_lcd DSTACK_USAGE:2 DSTACK_LEVEL:146 FILE:"main.c" LINE:340
+lcd_puts DSTACK_USAGE:3 DSTACK_LEVEL:149 FILE:"" LINE:243
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:150 FILE:"" LINE:229
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:152 FILE:"" LINE:211
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:153 FILE:"" LINE:147
+_lcd_write_nibble DSTACK_USAGE:1 DSTACK_LEVEL:154 FILE:"" LINE:132
